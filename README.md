@@ -2,7 +2,7 @@
 
 ## 1 Introduction
 
-In this repository, I'll pack all the detailed solutions of homework and projects in CS61A.
+In this repository, I'll pack all the detailed solutions of homework and projects in CS186.
 
 Want to know more about my notes taken during studying CS186? Please visit the [link](https://csstudy.pages.dev/) and click on Database System topic for more!
 
